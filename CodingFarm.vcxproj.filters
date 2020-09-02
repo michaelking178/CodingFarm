@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CodingFarm.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Animal.h">
       <Filter>Header Files</Filter>
     </ClInclude>

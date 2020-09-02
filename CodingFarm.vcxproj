@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h" />
-    <ClInclude Include="CodingFarm.h" />
     <ClInclude Include="Cow.h" />
     <ClInclude Include="Horse.h" />
     <ClInclude Include="Pig.h" />
